@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Ala; /* Гарнитура шрифта */
+    src: url(20851.ttf); /* Путь к файлу со шрифтом */
+   }
+@font-face {
+    font-family: mel; /* Гарнитура шрифта */
+    src: url(20686.ttf); /* Путь к файлу со шрифтом */
+   }

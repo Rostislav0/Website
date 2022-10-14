@@ -1,0 +1,16 @@
+blockquote {
+  quotes: "\2039" "\203A";
+  font-size: 40px;
+  font-family: 'Sigmar One', cursive;
+}
+blockquote:before {
+  content: open-quote;
+  color: mediumvioletred;
+  margin-right: 10px;
+
+}
+ blockquote:after  {
+  content: close-quote;
+  color: mediumvioletred;
+  margin-left: 10px;
+}
