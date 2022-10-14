@@ -1,0 +1,40 @@
+@font-face {
+    font-family: data; /* Имя шрифта */
+    src: url(20806.ttf); /* Путь к файлу со шрифтом */
+   }
+
+   @font-face {
+    font-family: osn; /* Имя шрифта */
+    src: url(20805.ttf); /* Путь к файлу со шрифтом */
+   }
+
+   @font-face {
+    font-family: menu; /* Имя шрифта */
+    src: url(19700.ttf); /* Путь к файлу со шрифтом */
+   }
+
+@font-face {
+    font-family: mario; /* Имя шрифта */
+    src: url(17804.otf); /* Путь к файлу со шрифтом */
+   }
+
+
+  @font-face {
+    font-family: sait2; /* Имя шрифта */
+    src: url(20851.ttf); /* Путь к файлу со шрифтом */
+   }
+ @font-face {
+    font-family: osn2; /* Имя шрифта */
+    src: url(HelveticaNeueCyr-Thin.ttf); /* Путь к файлу со шрифтом */
+   }
+ @font-face {
+    font-family: inst; /* Имя шрифта */
+    src: url(20322.ttf); /* Путь к файлу со шрифтом */
+   }
+
+@font-face {
+    font-family: vk; /* Имя шрифта */
+    src: url(20325.otf); /* Путь к файлу со шрифтом */
+   }
+
+
